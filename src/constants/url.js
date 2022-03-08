@@ -1,0 +1,1 @@
+export const BASE_URL = `http://books.appnoz.com.br/api/v1`
